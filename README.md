@@ -2,10 +2,15 @@
 
 Instalasi Upgrading Instagram-Py dengan pip
 
-$ sudo pip3 install instagram-py --upgrade $ sudo easy_install3 -U pip # you have to install python3-setuptools , update pip $ sudo pip3 install requests --upgrade $ sudo pip3 install requests[socks] $ sudo pip3 install stem $ sudo pip3 install instagram-py $ instagram-py # installed sukses $ instagram-py --create-configuration Configuring Instagram-Py
-
+$ sudo pip3 install instagram-py --upgrade 
+$ sudo easy_install3 -U pip # you have to install python3-setuptools , update pip 
+$ sudo pip3 install requests --upgrade 
+$ sudo pip3 install requests[socks] 
+$ sudo pip3 install stem 
+$ sudo pip3 install instagram-py 
+$ instagram-py # installed sukses 
+$ instagram-py --create-configuration Configuring Instagram-Py
 $ instagram-py --create-configuration $ # OR $ instagram-py -cc
-
 $ instagram-py --create-configuration --default-configuration $ # OR $ instagram-py -cc -dc
 
 Configuring Tor server to open control port
@@ -40,7 +45,7 @@ optional arguments: -h, --help show this help message and exit --username USERNA
 
 example: instagram-py -c -vvv -u instatestgod__ -pl rockyou.txt
 
-Report bug, suggestions and new features at https://github.com/awanvenom/bobol_ig
+Report bug, suggestions and new features at https://github.com/radenmuhammadimam/Ngehack-Instagram
 
 Instagram-Py Scripting
 
@@ -48,7 +53,8 @@ Instagram-Py now lets you run your custom scripts inside of it for maximum custo
 
 You Can Always View the Cracked Passwords Using this command!
 
-$ instagram-py -i instatestgod__ $ # Displays record if it is cracked in the past!
+$ instagram-py -i instatestgod__ 
+$ # Displays record if it is cracked in the past!
 
 Algorithm
 
