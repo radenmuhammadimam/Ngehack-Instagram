@@ -1,3 +1,4 @@
+-------------------------------------------------- CARA PAKAI --------------------------------------------------
 Instalasi Upgrading Instagram-Py dengan pip
 
 $ sudo pip3 install instagram-py --upgrade $ sudo easy_install3 -U pip # you have to install python3-setuptools , update pip $ sudo pip3 install requests --upgrade $ sudo pip3 install requests[socks] $ sudo pip3 install stem $ sudo pip3 install instagram-py $ instagram-py # installed sukses $ instagram-py --create-configuration Configuring Instagram-Py
